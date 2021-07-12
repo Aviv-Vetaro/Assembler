@@ -1,0 +1,56 @@
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 7
+Line is too big
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 22
+Line is too big
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 1
+Command has not been found
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 6
+Command has not been found
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 8
+Command has not been found
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 11
+Statement is missing mandatory components
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 13
+Statement is missing mandatory components
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 14
+Command has not been found
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 16
+Command has not been found
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 27
+redundant statement after the end of command
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 18
+Label is invalid
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 18
+String must be terminated with a ' " '
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 20
+Label is invalid
+FATAL ERROR:
+	-at file: "./tests/errors.as"
+	-at line 29
+label is referenced but not declared
